@@ -31,7 +31,8 @@ collection design theme theory
 09.23-10.01
 
 The theme of the installation is determined, and the sketch of the physical installation schemeis provided
-< img src="https://github.com/Yangffffffff/Final-Portfolio-of-Work/blob/main/photo/%E6%88%AA%E5%B1%8F2022-11-21%2015.43.12.png" >
+
+<img width="188" alt="截屏2022-11-13 22.23.47.png" src="[https://user-images.githubusercontent.com/91968054/202919999-a7d7650b-0f96-4b8f-8f3f-f404d0fc2c5e.png](https://github.com/Yangffffffff/Final-Portfolio-of-Work/blob/main/photo/%E6%88%AA%E5%B1%8F2022-11-13%2022.23.47.png)">
 
 
 10.02-10.10
